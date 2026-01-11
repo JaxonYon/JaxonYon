@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JaxonYon
-- 👀 I’m interested in Coding in Python!
-- 🌱 I’m currently trying to learn how to code in Javascript
+
 
 
 <!---
